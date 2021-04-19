@@ -1,3 +1,3 @@
 # Producer-consumer
 
-Επίλυση του προβλήματος producer consumer με χρήση σημαφόρων.
+Solve producer consumer problem using semaphores in java.
